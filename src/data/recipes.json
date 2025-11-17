@@ -1,0 +1,855 @@
+[
+  {
+    "slug": "vinagre-de-rosas",
+    "title": "VINAGRE DE ROSAS",
+    "image": "/taste-of-love/imagenes/vinagre-de-rosas.jpg",
+    "description": "Un vinagre aromático básico infusionado con pétalos de rosa, perfecto para ensaladas.",
+    "ingredients": [
+      "1/2 l de vinagre orgánico",
+      "1/4 l de vino blanco",
+      "75 g de pétalos de rosa fragantes",
+      "1 jarra de cristal grande"
+    ],
+    "preparation": "Pon el vinagre y el vino en la jarra. Añade los pétalos de rosa, cierra la jarra y guárdala en un lugar soleado durante dos días. Cuela el líquido a través de un colador muy fino o un paño de algodón fino y vierte el vinagre en una botella. Guarda el vinagre bien cerrado en un lugar fresco. ¡El vinagre de rosas debe dejarse reposar 2 días antes de usar!"
+  },
+  {
+    "slug": "mantequilla-de-rosas",
+    "title": "MANTEQUILLA DE ROSAS",
+    "image": "/taste-of-love/imagenes/mantequilla-de-rosas.jpg",
+    "description": "Una mantequilla cremosa aromatizada con pétalos de rosa, cebolla roja y un toque de sirope de rosas.",
+    "ingredients": [
+      "2 rosas grandes",
+      "250 g de mantequilla",
+      "1/8 de cebolla roja",
+      "Pimienta recién molida",
+      "Sal",
+      "Sirope de rosas"
+    ],
+    "preparation": "Enjuaga las rosas suavemente y sécalas, coge los pétalos. Bate la mantequilla hasta que esté cremosa. Pela la cebolla. Pica la cebolla y los pétalos de rosa finos y mézclalos con la mantequilla. Añade pimienta, sal y sirope de rosas y vuelve a remover con cuidado. Forma un rulo con la mantequilla de rosas en film transparente y déjalo endurecer en la nevera. Antes de servir: corta rodajas del rulo de mantequilla de rosas."
+  },
+  {
+    "slug": "agua-de-rosas",
+    "title": "AGUA DE ROSAS",
+    "image": "/taste-of-love/imagenes/agua-de-rosas.jpg",
+    "description": "Receta para hacer agua de rosas casera mediante un proceso de destilación y condensación.",
+    "ingredients": [
+      "100 g de pétalos de rosa",
+      "500 ml de agua destilada",
+      "Hielo"
+    ],
+    "preparation": "Para la producción casera de agua de rosas, necesitarás dos ollas: una más grande donde pondrás el agua destilada y los pétalos de rosa; y una más pequeña que irá en medio de la olla grande y se usará para recoger la condensación. La olla más pequeña puede colocarse sobre un soporte para elevarla. Coloca todo en el fuego, cubre con la tapa colocada al revés y llévalo a ebullición. La tapa al revés ayuda a que las gotas goteen en el bol. Después de que el agua haya hervido, coloca una abundante cantidad de hielo sobre la tapa para crear condensación. Reduce la temperatura a bajo y cocina a fuego lento de 25 a 30 minutos. No abras la tapa. Cambia el hielo si es necesario. Después de 30 minutos, retira del fuego y deja enfriar. Recoge el agua helada restante de la tapa. Sacude las gotitas restantes dentro de la olla pequeña. Vierte el agua de rosas en un frasco o botella limpia y guárdala en el refrigerador. Se puede usar en comidas, pasteles o productos de belleza."
+  },
+  {
+    "slug": "jarabe-de-rosas",
+    "title": "JARABE DE ROSAS",
+    "image": "/taste-of-love/imagenes/jarabe-de-rosas.jpg",
+    "description": "El jarabe de rosas es realmente fácil de hacer. Tiene un sabor delicioso y se puede usar en una variedad de postres como helados, yogures, bebidas, pasteles o pudines. El único límite es tu imaginación.",
+    "ingredients": [
+      "3 tazas de agua",
+      "4 tazas de azúcar",
+      "4 tazas de pétalos de rosa frescos"
+    ],
+    "preparation": "Pon el agua y el azúcar en una cacerola pequeña. Deja que hierva. Revuelve ocasionalmente hasta que el azúcar se disuelva. Agrega los pétalos de rosa y deja que hierva a fuego lento durante 10 minutos. Retira del fuego y deja reposar durante aproximadamente una hora. Cuanto más tiempo dejes los pétalos de rosa, más intenso será el sabor de tu jarabe. Cuela el jarabe a través de una tela de muselina y viértelo en un frasco o botella de vidrio limpio. Puedes guardar el jarabe en el refrigerador hasta por un mes."
+  },
+  {
+    "slug": "jarabe-de-rosas-con-limon",
+    "title": "JARABE DE ROSAS CON LIMÓN",
+    "image": "/taste-of-love/imagenes/jarabe-de-rosas-con-limon.jpg",
+    "description": "Una variación del jarabe de rosas clásico con un toque cítrico de limón, usando un método de doble infusión.",
+    "ingredients": [
+      "1/2 l de agua",
+      "500 g de azúcar",
+      "200 g de pétalos de rosa",
+      "Zumo de 1 limón"
+    ],
+    "preparation": "Lleva el agua a ebullición. Añade el azúcar y remueve hasta que se disuelva. Retira la cacerola del fuego y añade suavemente la mitad de los pétalos de rosa. Deja que se enfríe. Cuela los pétalos de rosa y vuelve a llevar el jarabe a ebullición. Retira la cacerola del fuego, añade el resto de los pétalos y deja que el jarabe se enfríe de nuevo. Cuela los pétalos de rosa del jarabe enfriado y añade el zumo de limón. Guarda el jarabe de rosas en el refrigerador."
+  },
+  {
+    "slug": "azucar-de-petalos-de-rosa",
+    "title": "AZÚCAR DE PÉTALOS DE ROSA",
+    "image": "/taste-of-love/imagenes/azucar-de-petalos-de-rosa.jpg",
+    "description": "Un azúcar aromático perfecto para espolvorear en galletas, té o cócteles. Se puede congelar o secar.",
+    "ingredients": [
+      "200 g de azúcar granulada",
+      "1 taza de pétalos de rosa, bien apretados"
+    ],
+    "preparation": "Inspecciona y limpia los pétalos. Si los lavas, deben estar secos antes de usar. Combina el azúcar y los pétalos de rosa en una licuadora y pulsa hasta que la mezcla sea homogénea. Transfiere a una bolsa con cierre zip y colócala en el congelador. Si quieres usar el azúcar preparado a diario, colócalo sobre papel de horno en una capa fina y déjalo secar durante un día o dos hasta que se endurezca por completo. Si es necesario, puedes licuarlo brevemente de nuevo para obtener una consistencia suave. Guarda el azúcar de pétalos de rosa en un recipiente hermético."
+  },
+  {
+    "slug": "mermelada-de-petalos-de-rosa",
+    "title": "MERMELADA DE PÉTALOS DE ROSA",
+    "image": "/taste-of-love/imagenes/mermelada-de-petalos-de-rosa.jpg",
+    "description": "Similar a la conserva, pero con una textura de mermelada tradicional. Se conserva hasta 6 meses.",
+    "ingredients": [
+      "3 tazas de pétalos de rosa frescos (lavar y dejar reposar 3 horas)",
+      "2 tazas de azúcar",
+      "1 1/2 taza de agua",
+      "2 limones",
+      "1 cucharadita de pectina (mezclada con 2 cucharadas de azúcar)",
+      "1 cucharada de agua de rosas (opcional)"
+    ],
+    "preparation": "Toma la mitad del azúcar (1 taza) y mézclala con los pétalos de rosa en un bol grande. Estruja los pétalos con las manos mientras los mezclas con el azúcar. Cubre con film transparente y refrigera durante la noche. Pon el azúcar restante en una cacerola con agua, cocina a fuego medio y remueve hasta que se disuelva. Añade los pétalos de rosa y el zumo de dos limones a la mezcla y cocina a fuego lento durante 20 minutos. Luego añade la pectina espolvoreándola poco a poco. Continúa hirviendo a fuego lento durante 15 minutos. Cerca del final, añade una cucharada de agua de rosas, cocina por un minuto más y retira del fuego. Vierte la mermelada en frascos de vidrio limpios y guárdala en un lugar frío."
+  },
+  {
+    "slug": "conserva-de-petalos-de-rosa",
+    "title": "CONSERVA DE PÉTALOS DE ROSA",
+    "image": "/taste-of-love/imagenes/conserva-de-petalos-de-rosa.jpg",
+    "description": "Una conserva tradicional de los Balcanes, muy dulce y con trozos de pétalos firmes. Se conserva hasta un año.",
+    "ingredients": [
+      "600 g de pétalos de rosa",
+      "1 l de agua",
+      "1 kg de azúcar",
+      "2 limones"
+    ],
+    "preparation": "Lava los pétalos y retira la parte blanca de la base. Déjalos secar. Coloca los pétalos en una olla, añade agua y déjalo hervir. Después de que el agua haya hervido, añade el azúcar. Remueve ocasionalmente hasta que se disuelva. Añade el zumo de 2 limones exprimidos y cocina a fuego lento durante aproximadamente media hora hasta que la mezcla espese. Vierte la mezcla en frascos de vidrio limpios mientras aún está caliente y ciérralos firmemente. La conserva puede parecer líquida al principio, pero se solidificará al asentarse. Desarrolla un sabor más completo después de uno o dos días. Guárdala en un lugar frío y oscuro."
+  },
+  {
+    "slug": "chutney-de-rosas",
+    "title": "CHUTNEY DE ROSAS",
+    "image": "/taste-of-love/imagenes/chutney-de-rosas.jpg",
+    "description": "Una pequeña cantidad de chutney especiado para acompañar un plato de queso o carne.",
+    "ingredients": [
+      "2-4 rosas frescas",
+      "5 cucharadas de azúcar",
+      "Ralladura y zumo de 1 limón",
+      "1 cucharadita de pimienta blanca",
+      "1 cucharadita de pimienta negra",
+      "1-2 cucharadas de agua de rosas"
+    ],
+    "preparation": "Coge los pétalos de rosa y pícalos muy finos. Cocina los pétalos de rosa con azúcar, zumo y ralladura de limón y una pequeña cantidad de agua a fuego lento. Deja que reduzca durante 8-10 minutos hasta obtener una especie de 'mermelada'. Sazona con pimienta blanca y negra recién molida, una pizca de sal y 1 cucharada de agua de rosas."
+  },
+  {
+    "slug": "mermelada-de-escaramujo",
+    "title": "MERMELADA DE ESCARAMUJO",
+    "image": "/taste-of-love/imagenes/mermelada-de-escaramujo.jpg",
+    "description": "Mermelada tradicional de los Balcanes, de sabor y aroma únicos. Hecha con escaramujos maduros.",
+    "ingredients": [
+      "1 kg de escaramujos",
+      "3 tazas de azúcar",
+      "1 l de agua",
+      "1 limón"
+    ],
+    "preparation": "Lava los escaramujos y corta los extremos. Colócalos en una olla grande y cúbrelos con agua. Hierve durante unas dos horas, hasta que estén blandos. Pasa la pulpa de escaramujo por un colador. Si la pulpa es espesa, puedes añadir un poco de agua a las semillas desechadas, hervir un poco y colarla de nuevo. Vuelve a colocar la olla en el fuego. Añade el azúcar y el zumo de limón, removiendo hasta que se disuelva. Hierve hasta que la mermelada alcance la consistencia deseada, removiendo constantemente. Vierte la mermelada en frascos limpios, aprieta las tapas y deja que se enfríe. Almacena en un lugar fresco y seco."
+  },
+  {
+    "slug": "te-persa-de-rosas",
+    "title": "TÉ PERSA DE ROSAS",
+    "image": "/taste-of-love/imagenes/te-persa-de-rosas.jpg",
+    "description": "Un té aromático que mezcla té negro, pétalos de rosa secos y cardamomo.",
+    "ingredients": [
+      "1 taza de té negro",
+      "1 taza de pétalos de rosa secos",
+      "2 cucharaditas de semillas de cardamomo verde"
+    ],
+    "preparation": "Para secar tus propios pétalos de rosa: colócalos en una capa fina en un lugar cálido y seco, lejos del sol, y déjalos secar durante aproximadamente una semana. Guarda en un frasco. Mezcla el té negro, los pétalos secos y las semillas de cardamomo (preferiblemente vainas enteras trituradas). Usa una cucharadita de la mezcla por taza. Vierte agua hirviendo sobre el té, déjalo reposar unos 5 minutos y sírvelo con leche o miel."
+  },
+  {
+    "slug": "te-de-petalos-de-rosa",
+    "title": "TÉ DE PÉTALOS DE ROSA",
+    "image": "/taste-of-love/imagenes/te-de-petalos-de-rosa.jpg",
+    "description": "Un té sencillo con propiedades calmantes, antisépticas y antiinflamatorias. Se puede hacer con pétalos frescos o secos.",
+    "ingredients": [
+      "3 tazas de agua",
+      "2 tazas de pétalos de rosa frescos",
+      "Miel",
+      "Especias (opcional, como canela o anís)"
+    ],
+    "preparation": "Usa solo rosas caseras no tratadas. Hierve el agua. Retira los pétalos de las flores y enjuágalos. Después de que el agua haya hervido, añade los pétalos y las especias (si usas). Cubre la olla. Deja hervir a fuego lento durante 4 minutos y retira del fuego. Vierte el té en una taza y sírvelo con miel. Opcional: retira la parte blanca de la base del pétalo para un sabor más afrutado."
+  },
+  {
+    "slug": "te-helado-de-petalos-de-rosa-e-hibisco",
+    "title": "TÉ HELADO DE PÉTALOS DE ROSA E HIBISCO",
+    "image": "/taste-of-love/imagenes/te-helado-de-petalos-de-rosa-e-hibisco.jpg",
+    "description": "Un refrescante té helado para 2 vasos grandes, ideal para preparar la noche anterior.",
+    "ingredients": [
+      "1.5 l de agua",
+      "1/3 taza de flores de hibisco secas",
+      "1 1/4 taza de pétalos de rosa secos",
+      "Miel",
+      "Cubitos de hielo",
+      "1 cucharadita de agua de rosas",
+      "Limón orgánico (opcional)"
+    ],
+    "preparation": "Calienta el agua en una olla hasta que hierva. Añade el hibisco y los pétalos de rosa. Reduce el fuego y déjalo hervir a fuego lento durante 15 minutos. Retira del fuego y déjalo reposar 5 minutos. Cuela el té y déjalo enfriar completamente antes de añadir agua de rosas y miel a tu gusto. Añade rodajas de limón (opcional). Pon la bebida en la nevera durante la noche. Sirve con cubitos de hielo y hojas de menta."
+  },
+  {
+    "slug": "te-de-escaramujo-y-manzana",
+    "title": "TÉ DE ESCARAMUJO Y MANZANA",
+    "image": "/taste-of-love/imagenes/te-de-escaramujo-y-manzana.jpg",
+    "description": "Un té refrescante con escaramujos molidos, manzana seca y jengibre. Ideal para el dolor de garganta.",
+    "ingredients": [
+      "1 taza de escaramujos secos y molidos",
+      "1 taza de manzanas secas",
+      "1/4 taza de jengibre seco"
+    ],
+    "preparation": "Seca los escaramujos en un lugar cálido y sombreado. Muélelos en una licuadora (no demasiado fino). Cuela los trozos molidos a través de un tamiz para eliminar los pelos irritantes. Mezcla los escaramujos colados, las manzanas secas y el jengibre seco. Guarda en un frasco de vidrio. Usa una cucharadita de esta mezcla por taza de agua. Añade la mezcla al agua hirviendo y deja hervir a fuego lento durante 15 minutos. Retira del fuego y deja reposar 5 minutos. Cuela el té y sirve con limón o miel."
+  },
+  {
+    "slug": "te-tradicional-de-escaramujo",
+    "title": "TÉ TRADICIONAL DE ESCARAMUJO",
+    "image": "/taste-of-love/imagenes/te-tradicional-de-escaramujo.jpg",
+    "description": "El mejor té de escaramujo hecho con el fruto entero, idealmente con frutos pequeños que se secan fácilmente.",
+    "ingredients": [
+      "2 tazas grandes de agua",
+      "1 cucharada de escaramujos enteros (frutos)",
+      "Miel"
+    ],
+    "preparation": "Recolecta los escaramujos. Pincha la superficie del fruto con una aguja. Puedes usarlos frescos o secarlos en un lugar cálido y sombreado durante una semana. Calienta el agua. Añade los escaramujos al agua hirviendo. Baja el fuego al mínimo y sigue hirviendo durante 15 minutos. Retira del fuego y deja reposar 5 minutos. Cuela el té, vierte en tazas y sirve con miel."
+  },
+  {
+    "slug": "batido-de-rosas",
+    "title": "BATIDO DE ROSAS",
+    "image": "/taste-of-love/imagenes/batido-de-rosas.jpg",
+    "description": "Un batido refrescante y saludable con yogur, frutos rojos y pétalos de rosa frescos. Para 2 vasos.",
+    "ingredients": [
+      "1 taza de yogur frío",
+      "1 taza de pétalos de rosa frescos",
+      "1 taza de frambuesas",
+      "1/4 taza de fresas",
+      "1 cucharada de miel",
+      "Unos pocos cubitos de hielo (opcional)"
+    ],
+    "preparation": "Coloca todos los ingredientes en una licuadora y bate hasta que esté suave. Vierte en un vaso y decora con un poco de canela y pétalos de rosa frescos. Si usas conserva o sirope de rosas en lugar de pétalos frescos, omite la miel."
+  },
+  {
+    "slug": "limonada-aromatizada-con-rosas",
+    "title": "LIMONADA AROMATIZADA CON ROSAS",
+    "image": "/taste-of-love/imagenes/limonada-aromatizada-con-rosas.jpg",
+    "description": "Una bebida de verano rápida y refrescante con un toque floral.",
+    "ingredients": [
+      "3 limones medianos",
+      "1 l de agua",
+      "2-3 cucharadas de agua de rosas",
+      "Azúcar (opcional)"
+    ],
+    "preparation": "Añade el zumo de limón exprimido, el agua de rosas y el agua en una jarra. Añade azúcar a tu gusto. Decora con algunas rodajas de limón fresco, pétalos de rosa y cubitos de hielo."
+  },
+  {
+    "slug": "batido-de-sirope-de-rosas-y-granada",
+    "title": "BATIDO DE SIROPE DE ROSAS Y GRANADA",
+    "image": "/taste-of-love/imagenes/batido-de-sirope-de-rosas-y-granada.jpg",
+    "description": "Simple, delicioso y saludable, este batido es una forma perfecta de empezar el día. Para 1 vaso grande.",
+    "ingredients": [
+      "1 taza de frambuesas",
+      "1 manzana grande, pelada y sin corazón",
+      "1 cucharada de sirope de rosas",
+      "1/2 taza de semillas de granada",
+      "1/4 taza de almendras (PDF dice 'a cup', 1/4 es más probable)",
+      "Unos pocos cubitos de hielo (opcional)"
+    ],
+    "preparation": "Coloca todos los ingredientes en una licuadora y bate hasta que esté suave. Decora con pétalos de rosa frescos o secos."
+  },
+  {
+    "slug": "coctel-de-rosas-con-licor-de-naranja",
+    "title": "CÓCTEL DE ROSAS CON LICOR DE NARANJA",
+    "image": "/taste-of-love/imagenes/coctel-de-rosas-con-licor-de-naranja.jpg",
+    "description": "Un cóctel espumoso y elegante para 4 vasos.",
+    "ingredients": [
+      "80 ml de sirope de rosas",
+      "80 ml de Grand Marnier",
+      "750 ml de vino blanco espumoso",
+      "Pétalos de rosa"
+    ],
+    "preparation": "Vierte el sirope de rosas y el Grand Marnier en copas altas frías. Rellena cuidadosamente con vino espumoso y decora con pétalos de rosa."
+  },
+  {
+    "slug": "coctel-de-frambuesa-y-rosa",
+    "title": "CÓCTEL DE FRAMBUESA Y ROSA",
+    "image": "/taste-of-love/imagenes/coctel-de-frambuesa-y-rosa.jpg",
+    "description": "Un cóctel espumoso con ginebra y un sirope casero de frambuesa y rosa. Para 1 copa.",
+    "ingredients": [
+      "30 ml de ginebra",
+      "1/2 taza de frambuesas frescas",
+      "1/2 taza de pétalos de rosa (frescos o secos)",
+      "1/2 taza de azúcar",
+      "1/2 taza de agua",
+      "1 clara de huevo"
+    ],
+    "preparation": "Primero haz el sirope: Mezcla agua y azúcar en una cacerola a fuego medio hasta que el azúcar se disuelva. Añade frambuesas y pétalos de rosa y lleva a ebullición lenta. Retira del fuego y deja enfriar. Cuela el líquido. Para el cóctel: Vierte el sirope de frambuesa y rosa y la ginebra en una coctelera y agita. Añade la clara de huevo y agita durante 10-15 segundos adicionales hasta que esté espumoso. Vierte en una copa de champán y decora con un pétalo de rosa o una frambuesa."
+  },
+  {
+    "slug": "bebida-de-verano-con-rosas",
+    "title": "BEBIDA DE VERANO CON ROSAS",
+    "image": "/taste-of-love/imagenes/bebida-de-verano-con-rosas.jpg",
+    "description": "Una bebida refrescante de 2 litros, ideal para una jarra grande.",
+    "ingredients": [
+      "1 l de tónica",
+      "1 l de agua mineral con gas",
+      "1 lima",
+      "Un poco de sirope de rosas o agua de rosas",
+      "Pétalos de 1 o 2 rosas"
+    ],
+    "preparation": "Mezcla la tónica y el agua mineral en una jarra grande. Añade al gusto un poco de sirope o agua de rosas. Corta la lima en gajos pequeños y ponlos en la jarra. Finalmente, espolvorea algunos pétalos de rosa por encima."
+  },
+  {
+    "slug": "bebida-aperitivo-festiva",
+    "title": "BEBIDA APERITIVO FESTIVA",
+    "image": "/taste-of-love/imagenes/bebida-aperitivo-festiva.jpg",
+    "description": "Un aperitivo increíblemente simple y elegante.",
+    "ingredients": [
+      "Vino blanco de tu elección (o prosecco)",
+      "Pétalos de rosa frescos"
+    ],
+    "preparation": "Pon algunos pétalos de rosa en una copa de vino blanco seco frío o prosecco, déjalo reposar un par de minutos antes de servir. Y tendrás una deliciosa bebida festiva y fresca."
+  },
+  {
+    "slug": "coctel-sueno-de-rosas",
+    "title": "CÓCTEL SUEÑO DE ROSAS",
+    "image": "/taste-of-love/imagenes/coctel-sueno-de-rosas.jpg",
+    "description": "Un cóctel sin alcohol con base de leche de coco, ideal para cocina oriental o para niños. Para 4 servicios.",
+    "ingredients": [
+      "Sirope de rosas (al gusto)",
+      "650 ml de leche",
+      "350 ml de leche de coco",
+      "Zumo de 1 limón (en un plato)",
+      "Azúcar granulada (en otro plato)",
+      "Coco fresco en cubos (opcional)",
+      "Para decorar: 1 clara de huevo, azúcar glas, pétalos de rosa"
+    ],
+    "preparation": "Para los pétalos azucarados: Bate la clara de huevo, pinta los pétalos con la clara y espolvoréalos con azúcar glas. Déjalos secar al aire sobre papel de horno. Para el cóctel: Mezcla bien la leche, leche de coco y sirope de rosas. Si quieres, añade cubos de coco. Pon en el congelador unas 2 horas, agitando de vez en cuando. Prepara 4 copas: moja los bordes en zumo de limón y luego en azúcar. Vierte la leche de rosa y coco en las copas y decora con los pétalos de rosa azucarados."
+  },
+  {
+    "slug": "ensalada-cesar-con-verduras-de-primavera-y-petalos-de-rosa",
+    "title": "ENSALADA CÉSAR CON VERDURAS Y PÉTALOS DE ROSA",
+    "image": "/taste-of-love/imagenes/ensalada-cesar-con-verduras-de-primavera-y-petalos-de-rosa.jpg",
+    "description": "Una versión primaveral de la ensalada César, con tirabeques, habas y espárragos. Entrante para 4 personas.",
+    "ingredients": [
+      "500 g de pechugas de pollo",
+      "3 cucharadas de aceite de oliva",
+      "Un poco de mantequilla salada",
+      "1 lechuga romana",
+      "150 g de tirabeques",
+      "150 g de habas (frescas o congeladas, peladas)",
+      "15 espárragos verdes",
+      "Pimienta negra / flor de sal",
+      "80 g de queso Parmesano en lascas",
+      "Picatostes (de 2 rebanadas de pan)",
+      "Un puñado de pétalos de rosa",
+      "Para la vinagreta: 5 cucharadas de aceite de oliva, 2 cucharadas de vinagre de vino, pimienta negra, ralladura de 1/2 limón",
+      "Para el aliño de anchoas: 3 dl de mayonesa, 1 cucharadita de mostaza francesa, 5 anchoas saladas y machacadas, 2 cucharadas de alcaparras, 2 cucharadas de yogur natural, ralladura de 1/2 limón"
+    ],
+    "preparation": "Calienta aceite de oliva y fríe el pollo por todos lados. Añade mantequilla justo antes de que esté hecho. Retira el pollo y córtalo en rodajas. Trocea la lechuga romana. Blanquea los tirabeques y las habas por separado en agua con sal y enfríalos rápidamente. Blanquea 12 espárragos en agua con sal y mantequilla y enfríalos. Corta los 3 espárragos restantes en rodajas finas. Haz la vinagreta y aliña la lechuga y las verduras. Haz el aliño de anchoas mezclando sus ingredientes. Diluye con yogur. Coloca las verduras y el pollo en una bandeja. Termina con parmesano y picatostes. Rocía generosamente con el aliño de anchoas. Sazona y espolvorea con pétalos de rosa."
+  },
+  {
+    "slug": "gazpacho-con-agua-de-rosas",
+    "title": "GAZPACHO CON AGUA DE ROSAS",
+    "image": "/taste-of-love/imagenes/gazpacho-con-agua-de-rosas.jpg",
+    "description": "Un gazpacho único con sandía, pimientos asados y un toque floral de agua de rosas. Entrante para 4 personas.",
+    "ingredients": [
+      "1 sandía roja pequeña sin semillas, limpia y en trozos",
+      "2 pimientos rojos asados (15 min a 250°C)",
+      "Zumo de una lima",
+      "1 cucharadita de shichimi togarashi",
+      "250 g de mini tomates sabrosos",
+      "3 cucharadas de aceite de oliva",
+      "1 cucharada de agua de rosas",
+      "Sal y pimienta",
+      "Queso feta en cubos",
+      "Tomillo fresco",
+      "Algunos pétalos de rosa frescos"
+    ],
+    "preparation": "Añade la sandía, los pimientos, los mini tomates, el zumo de lima, el togarashi, el agua de rosas y el aceite de oliva en el procesador de alimentos y bátelo hasta que esté suave. Sazona con sal y pimienta. Sirve el gazpacho en un bol y espolvoréalo con queso feta, tomillo y pétalos de rosa frescos."
+  },
+  {
+    "slug": "albondigas-con-petalos-de-rosa",
+    "title": "ALBÓNDIGAS CON PÉTALOS DE ROSA",
+    "image": "/taste-of-love/imagenes/albondigas-con-petalos-de-rosa.jpg",
+    "description": "Albóndigas especiadas con ternera, cordero y un toque de agua y pétalos de rosa. Entrante para 4 personas.",
+    "ingredients": [
+      "300 g de carne picada de ternera",
+      "200 g de carne picada de cordero",
+      "1 cebolla finamente picada",
+      "3 huevos",
+      "50 g de jengibre finamente picado",
+      "1 diente de ajo finamente picado",
+      "1 cucharada de comino",
+      "2 cucharadas de ras el hanout",
+      "2 cucharaditas de agua de rosas",
+      "Un puñado de pétalos de rosa",
+      "4 cucharadas de aceite",
+      "Pimienta y sal"
+    ],
+    "preparation": "Mezcla la ternera y el cordero picados con huevos, ajo, cebolla y jengibre. Añade sal y pimienta y sazona con comino y ras el hanout. Amasa hasta que esté completamente mezclado. Luego añade agua de rosas y pétalos de rosa picados. Deja reposar al menos media hora. Forma pequeñas albóndigas a mano y fríelas en una sartén con aceite hasta que estén bien doradas. Sirve con patatas fritas, brócoli blanqueado y decora con queso y pétalos de rosa."
+  },
+  {
+    "slug": "sopa-marroqui-de-zanahoria",
+    "title": "SOPA MARROQUÍ DE ZANAHORIA",
+    "image": "/taste-of-love/imagenes/sopa-marroqui-de-zanahoria.jpg",
+    "description": "Una sopa cremosa y especiada con zanahoria, jengibre y un toque final de agua de rosas. Entrante para 4 personas.",
+    "ingredients": [
+      "Aceite de oliva",
+      "1 cebolla dulce grande, troceada",
+      "2 dientes de ajo prensados",
+      "400 g de zanahoria, en trozos pequeños",
+      "5 g de raíz de jengibre rallada",
+      "1 guindilla pequeña, finamente picada (sin semillas)",
+      "Pimienta negra",
+      "Sal marina",
+      "1 cucharadita de cilantro en polvo",
+      "1 cucharadita de ras el hanout",
+      "1/2 cucharadita de comino en polvo",
+      "1 litro de caldo de pollo",
+      "1 dl de nata (crema de leche)",
+      "2 cucharaditas de agua de rosas",
+      "Para decorar: puñado de pétalos de rosa, 2 cucharadas de hojas de cilantro fresco"
+    ],
+    "preparation": "Calienta aceite de oliva en una olla alta y cocina la cebolla, el ajo, el jengibre y la guindilla suavemente. Sazona con pimienta, sal, cilantro, comino y ras el hanout. Después de 3 minutos, añade el caldo de pollo y deja cocinar suavemente hasta que las zanahorias estén blandas. Tritura la sopa con una batidora de mano y termina con la nata y el agua de rosas. Si es necesario, sazona con más pimienta y agua de rosas. Decora con hojas de cilantro y pétalos de rosa picados."
+  },
+  {
+    "slug": "ensalada-de-remolacha-cruda-queso-de-cabra-y-rosas",
+    "title": "ENSALADA DE REMOLACHA CRUDA, QUESO DE CABRA Y ROSAS",
+    "image": "/taste-of-love/imagenes/ensalada-de-remolacha-cruda-queso-de-cabra-y-rosas.jpg",
+    "description": "Una ensalada visualmente impactante con remolacha cruda marinada. Entrante para 4 personas.",
+    "ingredients": [
+      "5 o 6 remolachas pequeñas (si es posible de diferentes colores)",
+      "Zumo y ralladura de 1 naranja orgánica",
+      "1-2 cucharaditas de agua de rosas",
+      "2 cucharadas de aceite de oliva virgen extra",
+      "Sal y pimienta negra recién molida",
+      "150 g de queso de cabra tierno",
+      "2 cucharaditas de semillas de cilantro pequeñas, tostadas y trituradas",
+      "Unos pocos pétalos de rosa (secos)"
+    ],
+    "preparation": "Pela las remolachas y córtalas en rodajas de aproximadamente 1 mm y colócalas en un bol. Prepara el aliño con zumo y ralladura de naranja, agua de rosas y aceite de oliva, añadiendo una pizca de sal y pimienta. Vierte la mitad del aliño sobre las rodajas de remolacha, mezcla todo y deja reposar la ensalada de 15 a 20 minutos. Sirve unas cucharadas grandes de queso de cabra en una bandeja con las remolachas por encima y espolvorea con semillas de cilantro y pétalos de rosa. Rocía un poco más de aliño sobre la ensalada y sirve."
+  },
+  {
+    "slug": "ensalada-arabe-de-zanahoria",
+    "title": "ENSALADA ÁRABE DE ZANAHORIA",
+    "image": "/taste-of-love/imagenes/ensalada-arabe-de-zanahoria.jpg",
+    "description": "Una ensalada colorida con zanahorias de varios colores, hierbas y un aliño dulce y especiado. Guarnición para 4 personas.",
+    "ingredients": [
+      "4 zanahorias (blanca, amarilla, naranja y morada)",
+      "2 cebolletas, cortadas en aros finos",
+      "Hojas de 1/2 manojo de cilantro",
+      "Hojas de 4 ramas de menta",
+      "Un puñado de pasas",
+      "Un puñado pequeño de piñones",
+      "Aliño: 1 cucharada de zumo de limón, 2 cucharadas de zumo de naranja, 2 cucharadas de agua de rosas, 4 cucharadas de aceite de oliva, 2 cucharadas de miel, 1/2 cucharadita de comino en polvo, una pizca de canela en polvo, sal y pimienta"
+    ],
+    "preparation": "Limpia las zanahorias y córtalas en tiras largas y finas con un pelador de verduras. Mézclalas en un bol grande con las cebolletas, cilantro, hojas de menta, pasas y piñones. Prepara el aliño mezclando los ingredientes en un bol pequeño. Mezcla la ensalada con el aliño y sirve inmediatamente."
+  },
+  {
+    "slug": "ensalada-marroqui-de-zanahoria-y-agua-de-rosas-vegana",
+    "title": "ENSALADA MARROQUÍ DE ZANAHORIA Y AGUA DE ROSAS (VEGANA)",
+    "image": "/taste-of-love/imagenes/ensalada-marroqui-de-zanahoria-y-agua-de-rosas-vegana.jpg",
+    "description": "Una guarnición vegana sencilla y refrescante que mejora con el reposo. Guarnición para 4 personas.",
+    "ingredients": [
+      "4 zanahorias grandes",
+      "1/2 taza de pasas",
+      "2 cucharaditas de zumo de limón",
+      "1-2 cucharadas de agua de rosas",
+      "1 cucharada de aceite de oliva (virgen extra)"
+    ],
+    "preparation": "Pela y ralla las zanahorias. Mezcla todos los ingredientes en un bol mediano. La mezcla debe estar ligeramente húmeda. Se humedecerá más al reposar. Déjala reposar al menos un par de horas en el refrigerador. Sirve fría o a temperatura ambiente como guarnición o parte de un plato de mezze."
+  },
+  {
+    "slug": "ensalada-con-higos-y-feta",
+    "title": "ENSALADA CON HIGOS Y FETA",
+    "image": "/taste-of-love/imagenes/ensalada-con-higos-y-feta.jpg",
+    "description": "Una ensalada completa o guarnición con higos secos, queso feta y semillas. Para 2 personas.",
+    "ingredients": [
+      "4 cucharadas de aceite de oliva",
+      "2 cucharadas de zumo de limón",
+      "2 cucharadas de miel",
+      "1 diente de ajo, machacado",
+      "150-200 g de mezcla de ensalada",
+      "2 cucharadas de semillas de chía",
+      "2 cucharadas de nueces, troceadas",
+      "1 cucharada de piñones (tostados) o semillas de calabaza",
+      "1 cebolla roja, en aros finos",
+      "6 higos secos, partidos por la mitad",
+      "100 g de queso feta de cabra u oveja",
+      "Pétalos de 1 rosa"
+    ],
+    "preparation": "Haz el aliño mezclando aceite de oliva, zumo de limón, miel y ajo. Reserva. Dispón la lechuga en una fuente grande y espolvorea con semillas de chía, nueces, piñones, aros de cebolla roja e higos. Desmorona el feta sobre la ensalada y espolvorea con pétalos de rosa. Sirve el aliño por separado."
+  },
+  {
+    "slug": "ensalada-con-petalos-de-rosa-y-vinagreta-de-rosas",
+    "title": "ENSALADA CON PÉTALOS DE ROSA Y VINAGRETA DE ROSAS",
+    "image": "/taste-of-love/imagenes/ensalada-con-petalos-de-rosa-y-vinagreta-de-rosas.jpg",
+    "description": "Una ensalada de entrante con tirabeques, bacon crujiente y manzana. Entrante para 4 personas.",
+    "ingredients": [
+      "100 g de mezcla de ensalada",
+      "160 g de tirabeques",
+      "160 g de bacon magro ahumado",
+      "1 manzana grande",
+      "1 rosa grande rosa o roja",
+      "1 dl de vinagreta de rosas (ver receta básica)",
+      "Cebolletas o perejil"
+    ],
+    "preparation": "Lava la lechuga y escúrrela. Cuece los tirabeques 'al dente' y enfríalos. Corta el bacon en tiras y fríelo hasta que esté crujiente. Escúrrelo en papel de cocina. Pela la manzana y córtala en juliana. Lava los pétalos de rosa y sécalos. Mezcla los tirabeques, el bacon, la manzana y los pétalos de rosa con parte de la vinagreta de rosas. Dispón la lechuga en 4 platos y rocía con vinagreta. Coloca la ensalada en el centro. Espolvorea con cebolleta picada o pétalos de rosa."
+  },
+  {
+    "slug": "ensalada-de-petalos-de-rosa-con-rucula-menta-y-apio",
+    "title": "ENSALADA DE PÉTALOS DE ROSA CON RÚCULA, MENTA Y APIO",
+    "image": "/taste-of-love/imagenes/ensalada-de-petalos-de-rosa-con-rucula-menta-y-apio.jpg",
+    "description": "Una ensalada sencilla, nutritiva y sabrosa. Guarnición para 4 personas.",
+    "ingredients": [
+      "4 tazas de rúcula",
+      "1/4 taza de menta",
+      "1 taza de hojas de perejil fresco",
+      "1/2 taza de apio cortado fino en diagonal",
+      "1/4 taza de pétalos de rosa frescos",
+      "2 cucharadas de queso parmesano",
+      "1 cucharada de aceite de oliva",
+      "1 cucharada de zumo de limón",
+      "Sal y pimienta al gusto"
+    ],
+    "preparation": "Combina el aceite de oliva, el zumo de limón, la pimienta negra y la sal en un bol grande, batiendo con un batidor. Añade la rúcula, el perejil, la menta, los pétalos de rosa y el apio, mezcla para cubrir. Espolvorea con queso parmesano y sirve fresco."
+  },
+  {
+    "slug": "ensalada-de-hinojo-con-ricotta-a-la-parrilla",
+    "title": "ENSALADA DE HINOJO CON RICOTTA A LA PARRILLA",
+    "image": "/taste-of-love/imagenes/ensalada-de-hinojo-con-ricotta-a-la-parrilla.jpg",
+    "description": "Un entrante elegante con ricotta dorada, hinojo fresco y un chutney de rosas casero. Entrante para 4 personas.",
+    "ingredients": [
+      "250 g de ricotta",
+      "100 ml de aceite de oliva virgen extra",
+      "1 hinojo mediano",
+      "4-5 cucharadas de semillas de granada",
+      "1 cucharada de semillas de cilantro, tostadas",
+      "Algunos capullos de rosa secos o pétalos frescos",
+      "Flor de sal",
+      "Tostadas crujientes",
+      "Para el chutney de rosas: 2-4 rosas frescas, 5 cucharadas de azúcar, ralladura y zumo de 1 limón, 1 cucharadita de pimienta blanca, 1 cucharadita de pimienta negra, 1-2 cucharadas de agua de rosas"
+    ],
+    "preparation": "Precalienta el grill a 220°C. Primero haz el chutney: pica los pétalos y cocínalos con azúcar, zumo y ralladura de limón y un poco de agua a fuego lento. Reduce 8-10 minutos a una 'mermelada'. Sazona con pimientas, sal y 1 cucharada de agua de rosas. Coloca la ricotta sobre papel de horno en una bandeja. Rocía con sal y un poco de aceite de oliva y déjala bajo el grill unos 20 minutos hasta que esté dorada. Mientras tanto, corta el hinojo en láminas finas. Mezcla el resto del aceite de oliva con 1 cucharada de agua de rosas. Mezcla un poco de este aceite de rosas con el hinojo. Machaca los pétalos secos con flor de sal. Coloca la ricotta grillada en un plato grande, pon la ensalada de hinojo alrededor y un poco del chutney de rosas sobre la ricotta. Espolvorea con semillas de granada, sal de rosas, semillas de cilantro tostadas y un poco de aceite de rosas. Sirve con tostadas crujientes."
+  },
+  {
+    "slug": "pollo-con-avellanas-y-miel",
+    "title": "POLLO CON AVELLANAS Y MIEL",
+    "image": "/taste-of-love/imagenes/pollo-con-avellanas-y-miel.jpg",
+    "description": "Un plato principal marinado con especias, horneado y terminado con un glaseado de miel, avellanas y agua de rosas. Plato principal para 4 personas.",
+    "ingredients": [
+      "500 g de pechuga de pollo en trozos",
+      "2 cebollas, picadas",
+      "200 ml de caldo (pollo/verdura)",
+      "Un puñado de avellanas",
+      "2-3 cucharadas de miel",
+      "2 cucharaditas de agua de rosas",
+      "1 limón en rodajas (para decorar)",
+      "Para la marinada: 1 cucharadita de jengibre en polvo, 1 cucharadita de canela en polvo, unas hebras de azafrán, zumo de 1 limón, sal, pimienta"
+    ],
+    "preparation": "Mezcla todos los ingredientes de la marinada con el pollo y déjalo marinar 1/2 hora. Tuesta las avellanas por separado y pícalas un poco. Precalienta el horno a 180°C. Pon el pollo en una fuente para horno, añade las cebollas, vierte el caldo y hornea durante 30-45 minutos. Dales la vuelta de vez en cuando. Retira del horno y úntalo con la mezcla de avellanas picadas, agua de rosas y miel. Vuelve a meter al horno 5 minutos más hasta que la parte superior se dore. Decora con rodajas de limón y cilantro o perejil. Va bien con arroz o cuscús."
+  },
+  {
+    "slug": "ragu-de-cordero-con-albaricoques",
+    "title": "RAGÚ DE CORDERO CON ALBARICOQUES",
+    "image": "/taste-of-love/imagenes/ragu-de-cordero-con-albaricoques.jpg",
+    "description": "Un estofado de cordero tierno y aromático con albaricoques secos, canela y azafrán. Plato principal para 4 personas.",
+    "ingredients": [
+      "500 g de carne de cordero en trozos",
+      "1 cucharada de harina",
+      "Sal",
+      "Pimentón dulce (paprika)",
+      "2 cebollas, finamente rebanadas",
+      "4 cucharadas de aceite",
+      "1 1/2 cucharadita de canela",
+      "250 g de albaricoques secos, remojados",
+      "Hebras de azafrán",
+      "Azúcar",
+      "1 cucharada de agua de rosas"
+    ],
+    "preparation": "Mezcla la carne con la harina, sal y pimentón. Calienta el aceite en una cazuela y fríe la carne con las cebollas hasta que esté dorada por todos lados. Espolvorea la canela. Pon las hebras de azafrán brevemente en agua tibia, añádelas a la carne y deja que se frían. Vierte agua caliente sobre la carne, justo hasta cubrirla. Deja guisar la carne suavemente durante 1.5 - 2 horas. Luego añade los albaricoques remojados, una pizca de azúcar y agua de rosas. Cocina a fuego lento otros 45 minutos. Sirve con arroz o cuscús."
+  },
+  {
+    "slug": "gallineta-con-harissa-y-petalos-de-rosa",
+    "title": "GALLINETA CON HARISSA Y PÉTALOS DE ROSA (À LA OTTOLENGHI)",
+    "image": "/taste-of-love/imagenes/gallineta-con-harissa-y-petalos-de-rosa.jpg",
+    "description": "Un plato de pescado marinado en harissa, servido con una salsa agridulce especiada. Plato principal para 4 personas.",
+    "ingredients": [
+      "3 cucharadas de harissa",
+      "1 cucharadita de comino molido",
+      "4 filetes de gallineta (redfish)",
+      "Harina para rebozar",
+      "2 cucharadas de aceite de oliva",
+      "2 cebollas, finamente rebanadas",
+      "100 ml de vinagre de vino tinto",
+      "1 cucharadita de canela molida",
+      "200 ml de agua",
+      "1 1/2 cucharada de miel",
+      "1 cucharada de agua de rosas",
+      "60 g de pasas de Corinto o pasas",
+      "2 cucharadas de hojas de cilantro picadas",
+      "2 cucharaditas de pétalos de rosa secos o un puñado de frescos",
+      "Sal y pimienta negra"
+    ],
+    "preparation": "Marinar (2 horas antes): Mezcla la mitad de la harissa con comino y 1/2 cucharadita de sal y frota los filetes de pescado. Déjalo en la nevera 2 horas. Preparación: Enharina los filetes. Calienta aceite y cocina los filetes 2 minutos por cada lado. Retira el pescado. En el mismo aceite, cocina las cebollas 8 minutos hasta que estén doradas. Añade el resto de la harissa, vinagre, canela, 1/2 cucharadita de sal y pimienta. Añade agua y baja el fuego, cocina a fuego lento 10-15 minutos, hasta que esté muy espesa. Añade miel y agua de rosas junto con las pasas y cocina unos minutos. Prueba y añade más especias si es necesario. Coloca el pescado en la sartén y vierte la salsa sobre él. Deja que el pescado se caliente varios minutos. Sirve el pescado con cilantro y pétalos de rosa."
+  },
+  {
+    "slug": "curry-de-yogur-vadouvan-con-pollo",
+    "title": "CURRY DE YOGUR VADOUVAN CON POLLO",
+    "image": "/taste-of-love/imagenes/curry-de-yogur-vadouvan-con-pollo.jpg",
+    "description": "Un curry suave y cremoso con la mezcla de especias Vadouvan, yogur y almendras. Plato principal para 4 personas.",
+    "ingredients": [
+      "500-600 g de filetes o muslos de pollo",
+      "2 cucharadas de aceite vegetal",
+      "1 cebolla, finamente picada",
+      "1 cucharada + 1 cucharadita de vadouvan (mezcla de especias tipo curry)",
+      "300 ml de yogur turco o griego",
+      "50 g de almendras molidas",
+      "1 cucharada de agua de rosas",
+      "Pimienta y sal",
+      "1/2 manojo de cilantro, hojas picadas"
+    ],
+    "preparation": "Calienta aceite en una sartén y fríe la cebolla. Añade 1 cucharada de vadouvan y fríe brevemente. Añade el pollo y fríelo por todos lados. Vierte el yogur y el agua de rosas sobre el pollo y remueve. Raspa el fondo de la sartén. Incorpora las almendras molidas y 1/2 cucharadita de sal. Deja cocinar el pollo a fuego lento, con la tapa puesta, durante 10 a 15 minutos. Incorpora 1 cucharadita más de vadouvan justo antes de que el pollo esté hecho y añade sal y pimienta. Espolvorea con hojas de cilantro. Va bien con arroz, lentejas o pan naan."
+  },
+  {
+    "slug": "fresas-en-agua-de-rosas-veganas",
+    "title": "FRESAS EN AGUA DE ROSAS (VEGANAS)",
+    "image": "/taste-of-love/imagenes/fresas-en-agua-de-rosas-veganas.jpg",
+    "description": "Un postre vegano increíblemente simple y refrescante que solo necesita marinado. Postre para 4 personas.",
+    "ingredients": [
+      "500 g de fresas, lavadas",
+      "1 cucharada de agua de rosas",
+      "1 cucharada de azúcar",
+      "1 cucharada de agua"
+    ],
+    "preparation": "Quita los tallos verdes de las fresas, pártelas por la mitad o en cuartos. Mezcla el agua de rosas, el azúcar y el agua y viértelo sobre las fresas. Déjalo marinar al menos 2 horas en el refrigerador. Sirve con requesón, yogur o helado. Decora con algunos pétalos de rosa frescos."
+  },
+  {
+    "slug": "yogur-aromatizado-con-rosas",
+    "title": "YOGUR AROMATIZADO CON ROSAS",
+    "image": "/taste-of-love/imagenes/yogur-aromatizado-con-rosas.jpg",
+    "description": "Un desayuno o postre saludable y sencillo, listo en segundos.",
+    "ingredients": [
+      "Un vaso de yogur frío",
+      "1-2 cucharadas de sirope de rosas"
+    ],
+    "preparation": "Vierte el yogur en un vaso y añade 1 o 2 cucharadas de sirope de pétalos de rosa, dependiendo de cuán dulce lo quieras. Si no tienes sirope, puedes usar un par de gotas de agua de rosas (el sabor será menos intenso). Sírvelo con galletas integrales, de té, tortitas o gofres."
+  },
+  {
+    "slug": "pudin-aromatizado-con-rosas",
+    "title": "PUDIN AROMATIZADO CON ROSAS",
+    "image": "/taste-of-love/imagenes/pudin-aromatizado-con-rosas.jpg",
+    "description": "Un postre simple y delicioso que se espesa con maicena. Postre para 4 personas.",
+    "ingredients": [
+      "1 l de leche",
+      "1/2 taza de nata para montar (crema batida)",
+      "7 cucharadas de maicena (almidón de maíz)",
+      "1/3 taza de azúcar",
+      "3-4 cucharadas de sirope de rosas"
+    ],
+    "preparation": "Toma una taza de leche y bátela con la maicena y el azúcar hasta que se disuelva. Pon la leche restante, la nata y el sirope de rosas en una cacerola a fuego medio. Añade la mezcla de maicena y cocina hasta que el pudin espese, removiendo constantemente. Mientras aún está caliente, vierte el pudin en platos de servir y deja que se enfríe a temperatura ambiente. Decora con chocolate o fruta fresca. (Si usas agua de rosas en lugar de sirope, añade más azúcar)."
+  },
+  {
+    "slug": "eton-mess-con-rosa-y-frambuesa",
+    "title": "ETON MESS CON ROSA Y FRAMBUESA",
+    "image": "/taste-of-love/imagenes/eton-mess-con-rosa-y-frambuesa.jpg",
+    "description": "Un postre clásico inglés con merengue, nata y un coulis de frambuesa y rosas. Postre para 4 personas.",
+    "ingredients": [
+      "250 g de frambuesas",
+      "50 g de azúcar",
+      "250 ml de nata para montar (crema batida)",
+      "2-4 cucharaditas de agua de rosas",
+      "100 g de merengues",
+      "Pétalos de rosa frescos para decorar"
+    ],
+    "preparation": "Añade la mitad de las frambuesas con la mitad del azúcar en una cacerola y llévalo a ebullición. Cocina 1-2 minutos y luego pasa la masa por un colador fino para quitar las semillas. Enfría el coulis. Monta la nata con la otra mitad del azúcar. Añade el agua de rosas al final. Rompe los merengues en trozos y mézclalos con la nata montada, las frambuesas restantes y la mitad del coulis. Sirve el Eton mess en cuatro boles pequeños y rocía con el coulis restante. Decora con pétalos de rosa. Sírvelo inmediatamente."
+  },
+  {
+    "slug": "postre-oriental-de-yogur-con-rosas-y-cardamomo",
+    "title": "POSTRE ORIENTAL DE YOGUR CON ROSAS Y CARDAMOMO",
+    "image": "/taste-of-love/imagenes/postre-oriental-de-yogur-con-rosas-y-cardamomo.jpg",
+    "description": "Un postre visualmente atractivo con capas de yogur aromatizado y puré de frambuesa. Postre para 2 personas.",
+    "ingredients": [
+      "150 g de frambuesas, frescas o congeladas",
+      "1 remolacha pequeña, cocida",
+      "1/2 cucharadita de cardamomo molido",
+      "Unas gotas de agua de rosas",
+      "250 ml de yogur turco",
+      "1 cucharadita de esencia de almendra",
+      "4 cucharadas de azúcar glas"
+    ],
+    "preparation": "Mezcla las frambuesas con la remolacha en una licuadora. Añade cardamomo y agua de rosas y mezcla bien. Incorpora el azúcar glas y la esencia de almendra al yogur. Sirve en un vaso: una capa de yogur y una capa de puré de frambuesa. Alterna capas y al final remueve con un palillo para crear un remolino. Decora con pétalos de rosa frescos o pistachos picados."
+  },
+  {
+    "slug": "peras-en-sirope-de-azafran-y-rosas-veganas",
+    "title": "PERAS EN SIROPE DE AZAFRÁN Y ROSAS (VEGANAS)",
+    "image": "/taste-of-love/imagenes/peras-en-sirope-de-azafran-y-rosas-veganas.jpg",
+    "description": "Peras enteras pochadas en un sirope especiado con azafrán, cardamomo y rosas. Postre para 2-3 personas.",
+    "ingredients": [
+      "6 peras, peladas y enteras",
+      "400 ml de agua",
+      "200 g de azúcar",
+      "Ralladura de 2 limones",
+      "4 clavos",
+      "1 pétalo de macis",
+      "6 semillas de cardamomo verde pequeñas picadas",
+      "1-2 cucharadas de agua de rosas",
+      "1/2 cucharadita de hebras de azafrán tostadas",
+      "Hojas de menta"
+    ],
+    "preparation": "Mezcla agua, azúcar, ralladura de limón y especias (clavo, macis, cardamomo) en una sartén y cocina a fuego lento 5 minutos. Coloca las peras en el sirope caliente y cuécelas unos 20-30 minutos. Retira las peras y colócalas en un bol. Si el sirope está muy líquido, redúcelo hirviéndolo. Cuela el sirope caliente. Espolvorea las hebras de azafrán en el sirope y aromatízalo con agua de rosas. Vierte el sirope sobre las peras. Deja enfriar antes de servir. Decora con hojas de menta."
+  },
+  {
+    "slug": "ruibarbo-con-miel-y-naranja",
+    "title": "RUIBARBO CON MIEL Y NARANJA",
+    "image": "/taste-of-love/imagenes/ruibarbo-con-miel-y-naranja.jpg",
+    "description": "Ruibarbo cocido servido con yogur y almendras tostadas. Postre para 4 personas.",
+    "ingredients": [
+      "750 g de ruibarbo",
+      "1 naranja grande, ralladura y zumo",
+      "5 cucharadas de miel",
+      "100 g de azúcar",
+      "1/2 cucharada de agua de rosas",
+      "2 cucharadas de maicena (almidón de maíz)",
+      "100 g de láminas de almendra",
+      "400 ml de yogur turco o griego"
+    ],
+    "preparation": "Lava el ruibarbo y córtalo en trozos de 4-5 cm. Ralla la piel de la naranja y exprímela. Lleva el ruibarbo con miel, azúcar, ralladura y zumo de naranja y agua de rosas a ebullición en una sartén grande. Mezcla la maicena con 2-3 cucharadas de agua fría. Añade la maicena al ruibarbo hirviendo y cocina unos 3 minutos, removiendo. El ruibarbo debe estar blando pero no deshacerse. Retira del fuego y deja enfriar. Tuesta las láminas de almendra. Sirve el ruibarbo con yogur y espolvorea las almendras."
+  },
+  {
+    "slug": "pastel-de-chocolate",
+    "title": "PASTEL DE CHOCOLATE",
+    "image": "/taste-of-love/imagenes/pastel-de-chocolate.jpg",
+    "description": "Un pastel de chocolate denso con almendras molidas y un sutil aroma a agua de rosas. Postre para 8 personas.",
+    "ingredients": [
+      "100 g de mantequilla blanda",
+      "50 g de azúcar moreno suave claro",
+      "50 g de azúcar moreno suave oscuro",
+      "150 g de chocolate negro de buena calidad",
+      "1 cucharada de agua de rosas",
+      "5 huevos",
+      "125 g de almendras molidas",
+      "1 cucharadita de levadura en polvo",
+      "1 1/2 cucharadita de bicarbonato de sodio",
+      "Crema de balsámico (para decorar)"
+    ],
+    "preparation": "Precalienta el horno a 180°C y engrasa un molde de 22 cm. Cubre el fondo con papel de horno. Bate la mantequilla y el azúcar hasta que estén cremosos. Derrite el chocolate al baño maría y déjalo enfriar. Añade el chocolate y el agua de rosas a la mezcla de mantequilla. Luego añade los huevos, almendras molidas, levadura y bicarbonato. Mézclalo todo bien. Vierte la masa en el molde y hornea 35-40 minutos. Deja enfriar en una rejilla. Decora el plato con crema de balsámico, pétalos de rosa frescos y fresas."
+  },
+  {
+    "slug": "pastel-de-yogur-y-lima",
+    "title": "PASTEL DE YOGUR Y LIMA",
+    "image": "/taste-of-love/imagenes/pastel-de-yogur-y-lima.jpg",
+    "description": "Un bizcocho húmedo con yogur, pistachos y un sirope de lima y rosas. Postre para 8 personas.",
+    "ingredients": [
+      "Para el bizcocho: 225 g de harina com levadura, 1 cucharadita de levadura en polvo, pizca de sal, 75 g de almendras molidas, 100 g de azúcar granulada, 2 huevos medianos, 50 g de miel líquida, 2 1/2 dl de yogur griego, 1 1/2 dl de aceite de girasol, ralladura de 1 lima, 50 g de pistachos troceados",
+      "Para el sirope: 1 1/2 dl de agua, 100 g de azúcar granulada, zumo de 1 lima, 1-2 cucharadas de agua de rosas"
+    ],
+    "preparation": "Precalienta el horno a 180°C. Engrasa un molde de 22 cm y pon papel de horno en el fondo. Tamiza la harina, levadura y sal. Añade almendras y azúcar. En otro bol, mezcla huevos, miel, yogur, aceite y ralladura de lima. Vierte los líquidos en los secos y mezcla. Añade los pistachos. Vierte en el molde y hornea 40-50 minutos. Deja enfriar 20 minutos. Mientras tanto, haz el sirope: Hierve agua y azúcar 5 minutos. Añade zumo de lima y cocina 2 min. Deja enfriar y añade el agua de rosas. Haz agujeros en el bizcocho caliente y vierte el sirope por encima. Deja enfriar. Sirve con nata o yogur."
+  },
+  {
+    "slug": "delicia-turca-vegana",
+    "title": "DELICIA TURCA (VEGANA)",
+    "image": "/taste-of-love/imagenes/delicia-turca-vegana.jpg",
+    "description": "El dulce tradicional de Oriente Medio con sabor a rosas, espeso y gomoso. Requiere tiempo pero es gratificante.",
+    "ingredients": [
+      "1.5 kg de azúcar",
+      "1.5 l de agua (dividida por la mitad)",
+      "250 g de maicena (almidón de maíz)",
+      "1 limón",
+      "2 cucharadas de agua de rosas",
+      "2-3 gotas de colorante alimentario rojo (opcional)",
+      "100 g de azúcar glas"
+    ],
+    "preparation": "Pon 1.5 kg de azúcar, zumo de un limón y 750 ml de agua en una cacerola grande y hierve, removiendo hasta que el azúcar se disuelva. En otra cacerola, disuelve la maicena con los 750 ml de agua restantes, sin grumos. Añade el almidón disuelto al sirope de azúcar, removiendo constantemente con una cuchara de madera a fuego medio durante aproximadamente una hora. La mezcla debe volverse espesa y pegajosa. Retira del fuego y añade el agua de rosas y el colorante. Vierte la mezcla en una bandeja de horno bien engrasada, alisa la parte superior y deja reposar toda la noche, sin tapar. Al día siguiente, voltea el dulce sobre azúcar glas, espolvoreando bien por ambos lados. Córtalo con un cuchillo afilado y aceitado en cubos pequeños, espolvoreando cada uno con azúcar glas."
+  },
+  {
+    "slug": "helado-de-rosas-vegano",
+    "title": "HELADO DE ROSAS (VEGANO)",
+    "image": "/taste-of-love/imagenes/helado-de-rosas-vegano.jpg",
+    "description": "Un helado vegano refrescante hecho con un sirope de rosas infusionado. Receta cortesía de Theo Clevers. Para 4-6 personas.",
+    "ingredients": [
+      "250 g de azúcar granulada fina",
+      "4 1/2 dl de agua fría",
+      "100 g (20 uds) de pétalos de rosa de Theo Clevers",
+      "6 cucharadas de agua de rosas",
+      "Zumo de 1 limón"
+    ],
+    "preparation": "Calienta el agua con el azúcar hasta que se disuelva. Añade los pétalos de rosa y el agua de rosas al sirope de azúcar y deja enfriar. Déjalo reposar toda la noche. Al día siguiente, añade el zumo de limón a la masa. Colócalo en la máquina de helados y bátelo hasta alcanzar la consistencia deseada. (Consejo: para mantener el color fresco, añade 2 cucharaditas de glicerina a la masa)."
+  },
+  {
+    "slug": "tarta-de-queso-cruda-de-frambuesa-y-rosa-vegana",
+    "title": "TARTA DE QUESO CRUDA DE FRAMBUESA Y ROSA (VEGANA)",
+    "image": "/taste-of-love/imagenes/tarta-de-queso-cruda-de-frambuesa-y-rosa-vegana.jpg",
+    "description": "Una tarta de queso vegana y sin hornear con base de frutos secos y relleno de anacardos. Receta de Petra Žarković.",
+    "ingredients": [
+      "Para la base: 1 taza de frutos secos (almendras, nueces...), 1 taza de dátiles remojados y pelados, 1 cucharada de aceite de coco orgánico",
+      "Para el relleno: 1 taza de anacardos remojados, 2 cucharadas de manteca de coco, 2 cucharadas de zumo de limón, 3 cucharadas de miel (o sirope de agave), 1/2 taza de pétalos de rosa 'Theo Clevers', 2 cucharadas de agua de rosas, 1 1/2 taza de frambuesas orgánicas"
+    ],
+    "preparation": "Usa un molde desmontable de 22 cm con papel de horno. Tritura los ingredientes de la base en la licuadora y presiónalos firmemente en el fondo del molde. Tritura todos los ingredientes del relleno, excepto las frambuesas, hasta que estén suaves. Vierte la mitad de la mezcla sobre la base. Añade las frambuesas a la segunda mitad del relleno y vuelve a triturar. Vierte esto en el molde y déjalo reposar en el congelador durante al menos 2-3 horas. Sirve frío, decorado con pétalos de rosa."
+  },
+  {
+    "slug": "pastel-de-mermelada-de-fresa-y-rosa",
+    "title": "PASTEL DE MERMELADA DE FRESA Y ROSA",
+    "image": "/taste-of-love/imagenes/pastel-de-mermelada-de-fresa-y-rosa.jpg",
+    "description": "Un pastel de varias capas con bizcocho de yogur, mermelada casera de fresa y rosa, y un relleno de chocolate blanco. Receta de Sonja Lazukić.",
+    "ingredients": [
+      "Para el bizcocho: 200 g de aceite de colza, 130 g de yogur griego, 3 huevos, 230 g de azúcar, 200 g de yogur, 125 g de leche, 400 g de harina, extracto de vainilla, 1 cucharadita de bicarbonato, 1 cucharadita de levadura en polvo, 1 cucharadita de sal",
+      "Para la mermelada: 400 g de fresas, 150 g de miel, 1 limón exprimido, 1 cucharada de pétalos de rosa secos comestibles",
+      "Para el relleno: 300 g de mantequilla a temp. ambiente, 150 g de azúcar glas, 220 g de chocolate blanco derretido y enfriado"
+    ],
+    "preparation": "Precalienta el horno a 180°C. Forra 3 moldes de 24 cm. Bate huevos y azúcar, añade aceite, yogures, vainilla y leche. Añade los ingredientes secos y mezcla. Divide la masa en los moldes y hornea 25 minutos. Para la mermelada: cocina todos los ingredientes a fuego alto hasta que las fresas se ablanden (aprox. 10 min). Machaca las fresas y cocina 5 min más hasta que espese. Para el relleno: bate azúcar y mantequilla. Añade chocolate blanco y sigue batiendo. Montaje: coloca bizcocho, mermelada, relleno. Repite. Cubre el pastel con relleno. Enfría en la nevera al menos 4 horas."
+  },
+  {
+    "slug": "donuts-veganos-de-agua-de-rosas",
+    "title": "DONUTS VEGANOS DE AGUA DE ROSAS",
+    "image": "/taste-of-love/imagenes/donuts-veganos-de-agua-de-rosas.jpg",
+    "description": "Donuts horneados (no fritos) veganos con un glaseado de agua de rosas. Para 10 donuts.",
+    "ingredients": [
+      "1 1/2 tazas de harina",
+      "1 1/2 cucharadita de levadura en polvo",
+      "1/2 cucharadita de bicarbonato (PDF dice 1 1/2, 1/2 es más probable)",
+      "1/2 cucharadita de canela molida (PDF dice 1 1/2)",
+      "1/2 cucharadita de sal (PDF dice 1 1/2)",
+      "1/2 taza de azúcar granulada (PDF dice 1 1/2)",
+      "3 cucharadas de mantequilla vegana derretida",
+      "2 cucharaditas de extracto de vainilla",
+      "1/2 taza de leche de almendras (PDF dice 1 1/2)",
+      "1/4 taza de puré de manzana (PDF dice 'cup')",
+      "Para el glaseado: 1/2 taza de azúcar glas, gotas de colorante (o zumo de remolacha), 2-3 cucharaditas de agua, 1 cucharadita de agua de rosas, 1 cucharadita de maicena"
+    ],
+    "preparation": "Precalienta el horno a 180°C. Engrasa un molde para donuts. En un bol grande, mezcla mantequilla vegana, leche de almendras, vainilla, puré de manzana y azúcar. En otro bol, combina los ingredientes secos. Añade los húmedos a los secos y mezcla (no en exceso). Llena las cavidades del molde 2/3 con una manga pastelera. Hornea 10-12 minutos. Deja enfriar. Prepara el glaseado: mezcla todos sus ingredientes. Baña los donuts y decora con pétalos de rosa frescos."
+  },
+  {
+    "slug": "donuts-de-levadura-con-cobertura-de-chocolate",
+    "title": "DONUTS DE LEVADURA CON COBERTURA DE CHOCOLATE",
+    "image": "/taste-of-love/imagenes/donuts-de-levadura-con-cobertura-de-chocolate.jpg",
+    "description": "Donuts fritos tradicionales con una cobertura de chocolate negro, cardamomo y agua de rosas.",
+    "ingredients": [
+      "90 ml de agua",
+      "150 ml de suero de leche (buttermilk), a temp. ambiente",
+      "1 huevo batido, a temp. ambiente",
+      "57 g de mantequilla derretida",
+      "450 g de harina",
+      "50 g de azúcar",
+      "1 cucharadita de sal",
+      "5 g de levadura (rápida o normal)",
+      "Aceite para freír",
+      "Para la cobertura: 200 g de chocolate negro, pizca de cardamomo, 1 cucharada de agua de rosas, pétalos de rosa secos, frutos secos picados"
+    ],
+    "preparation": "Coloca todos los ingredientes (excepto el aceite) en un bol y amasa con un gancho amasador unos 6 minutos hasta que esté suave. Deja levar 1.5 horas. Coloca la masa en una superficie enharinada y amasa ligeramente. Corta formas de donut y colócalas sobre papel de horno. Cubre y deja levar 30-60 minutos más. Fríe en aceite abundante a fuego moderado hasta que estén dorados. Escurre en papel de cocina. Prepara la cobertura: derrite el chocolate al baño maría. Añade cardamomo y agua de rosas. Vierte sobre los donuts y decora con frutos secos y pétalos de rosa."
+  },
+  {
+    "slug": "bombones-fragantes-de-rosa",
+    "title": "BOMBONES FRAGANTES DE ROSA",
+    "image": "/taste-of-love/imagenes/bombones-fragantes-de-rosa.jpg",
+    "description": "Bombones esféricos de chocolate blanco con un relleno de fresa y rosa. Receta de Eveline Wild. Rinde 120 bombones.",
+    "ingredients": [
+      "100 g de agua",
+      "40 g de azúcar",
+      "1 pizca de ácido cítrico",
+      "110 g de fresas, trituradas",
+      "aprox. 200 g de chocolate blanco",
+      "60 g de miel líquida",
+      "6-8 flores de rosa 'Eveline Wild'™ frescas",
+      "460 g de chocolate blanco, derretido",
+      "100 g de Limoncello o Prosecco",
+      "aprox. 100 g de coco rallado y pétalos de rosa picados"
+    ],
+    "preparation": "Hierve brevemente azúcar, ácido cítrico, puré de fresa y miel. Deja enfriar a 40°C. Pica los pétalos de rosa y añádelos al puré. Cubre y guarda en la nevera toda la noche. Al día siguiente, pasa la mezcla por un colador fino, estrujando bien, y calienta a 40-50°C. Añade el chocolate (los 460g derretidos). Remueve hasta que esté suave. Añade el alcohol. Enfría a 30°C. Rellena moldes esféricos para bombones. Deja reposar toda la noche en un lugar fresco (no nevera). Cierra las esferas con chocolate. Baña los bombones en chocolate derretido (los 200g) y rebózalos en la mezcla de coco y rosa."
+  },
+  {
+    "slug": "tarta-de-ruibarbo",
+    "title": "TARTA DE RUIBARBO",
+    "image": "/taste-of-love/imagenes/tarta-de-ruibarbo.jpg",
+    "description": "Una tarta rectangular con base quebrada, relleno de pistacho y ruibarbo pochado. Postre para 6 personas.",
+    "ingredients": [
+      "Para la base: 135 g de harina, 60 g de mantequilla en trozos, 30 g de azúcar, 1 yema de huevo, 1 cucharada de agua, pizca de sal",
+      "Para el relleno de pistacho: 50 g de almendra molida, 25 g de pistachos molidos, 25 g de pistachos picados, 60 g de azúcar de caña, 1 huevo, 25 g de mantequilla derretida, pizca de sal",
+      "Para el ruibarbo: 750 g de tallos de ruibarbo, 2 dl de vino blanco dulce, 100 g de azúcar, unas gotas de agua de rosas"
+    ],
+    "preparation": "Base: Bate azúcar con yema y agua. Amasa harina y mantequilla. Añade la mezcla de huevo, forma una bola y refrigera 1h. Relleno: Mezcla todos sus ingredientes. Ruibarbo: Corta los tallos al tamaño del molde. Hierve vino, azúcar y agua de rosas. Pocha 3 minutos. Montaje: Precalienta horno a 170°C. Engrasa un molde rectangular. Extiende la masa y colócala en el molde. Extiende el relleno de pistacho. Coloca el ruibarbo encima. Hornea 25-30 minutos. Reduce el líquido del pochado a un sirope. Pincela la tarta con el sirope al salir del horno."
+  }
+]
