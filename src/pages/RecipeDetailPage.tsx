@@ -1,5 +1,6 @@
+import { useState } from 'react'
 import { useParams, Link, useNavigate } from 'react-router-dom'
-import { ArrowLeft, ChefHat } from 'lucide-react' // Importamos iconos
+import { ArrowLeft, ChevronDown, Check } from 'lucide-react'
 import recipesData from '@/data/recipes.json'
 
 // Define la "forma" de una receta
@@ -13,22 +14,15 @@ interface Recipe {
 }
 
 export default function RecipeDetailPage() {
-  // 1. Hooks de navegación
   const { slug } = useParams()
   const navigate = useNavigate()
   
-  // 2. Buscamos la receta actual
+  // Estado para controlar si el menú de recetas está abierto o cerrado
+  const [isMenuOpen, setIsMenuOpen] = useState(false)
+  
+  // Buscamos la receta actual
   const recipe = (recipesData as Recipe[]).find((r) => r.slug === slug)
 
-  // 3. Función para cambiar de receta desde el dropdown
-  const handleRecipeChange = (event: React.ChangeEvent<HTMLSelectElement>) => {
-    const newSlug = event.target.value;
-    if (newSlug) {
-      navigate(`/recetas/${newSlug}`);
-    }
-  };
-
-  // Si no existe la receta, mostramos un error
   if (!recipe) {
     return (
       <main className="min-h-screen bg-gray-100 py-12 px-4 flex flex-col items-center justify-center gap-4">
@@ -41,50 +35,79 @@ export default function RecipeDetailPage() {
   }
 
   return (
-    <main className="min-h-screen bg-gray-50 py-8 px-4 md:py-12">
+    <main className="min-h-screen bg-gray-50 py-8 px-4 md:py-12 font-sans">
       <div className="max-w-[1000px] mx-auto">
         
-        {/* --- BARRA DE NAVEGACIÓN --- */}
-        <nav className="flex flex-col md:flex-row justify-between items-center mb-8 gap-4 bg-white p-4 rounded-xl shadow-sm">
+        {/* 1. LOGO */}
+        <div className="flex justify-center mb-8">
+          <Link to="/">
+            <img
+              src="/taste-of-love/logo-tasteoflove.svg" 
+              alt="Taste of Love - Culinary Roses"
+              width={280}
+              className="h-auto opacity-90 hover:opacity-100 transition-opacity"
+            />
+          </Link>
+        </div>
+
+        {/* 2. BARRA DE NAVEGACIÓN */}
+        <nav className="relative z-50 flex flex-col md:flex-row justify-between items-center mb-8 gap-4 bg-white/80 backdrop-blur-sm p-4 rounded-xl border border-gray-100 shadow-sm">
+          
           {/* Botón Volver */}
           <Link 
             to="/" 
-            className="flex items-center gap-2 text-gray-600 hover:text-pink-500 transition-colors font-medium"
+            className="flex items-center gap-2 text-gray-500 hover:text-pink-500 transition-colors font-medium text-sm uppercase tracking-wider group w-full md:w-auto justify-center md:justify-start"
           >
-            <ArrowLeft size={20} />
-            <span className="hidden md:inline">Volver al recetario</span>
-            <span className="md:hidden">Volver</span>
+            <div className="bg-gray-100 p-2 rounded-full group-hover:bg-pink-50 transition-colors">
+                <ArrowLeft size={18} />
+            </div>
+            <span>Volver</span>
           </Link>
 
-          {/* Dropdown de Navegación Rápida */}
-          <div className="flex items-center gap-3 w-full md:w-auto">
-            <ChefHat className="text-pink-400 hidden md:block" size={24} />
-            <select 
-              value={recipe.slug} 
-              onChange={handleRecipeChange}
-              className="w-full md:w-64 p-2 bg-gray-50 border border-gray-200 rounded-lg text-gray-700 focus:outline-none focus:ring-2 focus:ring-pink-200 focus:border-pink-400 transition-all cursor-pointer text-sm md:text-base"
+          {/* --- DROPDOWN PERSONALIZADO --- */}
+          <div className="relative w-full md:w-72">
+            <button 
+              onClick={() => setIsMenuOpen(!isMenuOpen)}
+              className="w-full flex items-center justify-between bg-white border border-gray-200 text-gray-700 py-2.5 px-4 rounded-lg shadow-sm hover:border-pink-300 hover:ring-2 hover:ring-pink-100 transition-all text-sm font-medium cursor-pointer"
             >
-              {recipesData.map((r) => (
-                <option key={r.slug} value={r.slug}>
-                  {r.title}
-                </option>
-              ))}
-            </select>
+              <span className="truncate mr-2">{recipe.title}</span>
+              <ChevronDown size={16} className={`text-gray-400 transition-transform duration-300 ${isMenuOpen ? 'rotate-180' : ''}`} />
+            </button>
+
+            {isMenuOpen && (
+              <div 
+                className="fixed inset-0 z-40" 
+                onClick={() => setIsMenuOpen(false)}
+              ></div>
+            )}
+
+            {isMenuOpen && (
+              <div className="absolute top-full left-0 mt-2 w-full bg-white border border-gray-100 rounded-xl shadow-2xl max-h-[300px] overflow-y-auto z-50">
+                <ul className="py-1">
+                  {recipesData.map((r) => (
+                    <li key={r.slug}>
+                      <button
+                        onClick={() => {
+                          navigate(`/recetas/${r.slug}`);
+                          setIsMenuOpen(false);
+                        }}
+                        className={`w-full text-left px-4 py-3 text-sm hover:bg-pink-50 transition-colors flex items-center justify-between
+                          ${r.slug === recipe.slug ? 'bg-pink-50/50 text-pink-600 font-semibold' : 'text-gray-600'}
+                        `}
+                      >
+                        <span className="truncate">{r.title}</span>
+                        {r.slug === recipe.slug && <Check size={14} />}
+                      </button>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            )}
           </div>
         </nav>
 
-        {/* --- Logo --- */}
-        <div className="flex justify-center mb-8">
-          <img
-            src="/taste-of-love/logo-tasteoflove.svg" 
-            alt="Taste of Love - Culinary Roses"
-            width={300}
-            className="h-auto opacity-90 hover:opacity-100 transition-opacity"
-          />
-        </div>
-
         {/* --- Tarjeta de la Receta --- */}
-        <div className="bg-white rounded-2xl shadow-xl overflow-hidden border border-gray-100">
+        <div className="bg-white rounded-2xl shadow-xl overflow-hidden border border-gray-100 relative z-0">
           <div className="grid md:grid-cols-2 gap-0">
             {/* Imagen */}
             <div className="relative h-[400px] md:h-auto md:min-h-[600px]">
@@ -94,13 +117,12 @@ export default function RecipeDetailPage() {
                 className="absolute inset-0 w-full h-full object-cover"
                 onError={(e) => { e.currentTarget.src = "/taste-of-love/imagenes/placeholder-receta.jpg"; }}
               />
-              {/* Gradiente sutil sobre la imagen para darle estilo */}
               <div className="absolute inset-0 bg-gradient-to-t from-black/30 to-transparent md:hidden"></div>
             </div>
 
             {/* Contenido */}
             <div className="p-8 md:p-12 flex flex-col justify-center">
-              <h1 className="text-3xl md:text-4xl font-light mb-6 text-pink-400 tracking-wide uppercase border-b border-pink-100 pb-4">
+              <h1 className="text-3xl md:text-4xl font-light mb-6 text-pink-400 tracking-wide uppercase border-b border-pink-100 pb-4 font-serif">
                 {recipe.title}
               </h1>
 
